@@ -1,0 +1,14 @@
+/Users/kiran/Projects/test/test/bin/Debug/netcoreapp2.1/test.deps.json
+/Users/kiran/Projects/test/test/bin/Debug/netcoreapp2.1/test.runtimeconfig.json
+/Users/kiran/Projects/test/test/bin/Debug/netcoreapp2.1/test.runtimeconfig.dev.json
+/Users/kiran/Projects/test/test/bin/Debug/netcoreapp2.1/test.dll
+/Users/kiran/Projects/test/test/bin/Debug/netcoreapp2.1/test.pdb
+/Users/kiran/Projects/test/test/obj/Debug/netcoreapp2.1/test.csprojAssemblyReference.cache
+/Users/kiran/Projects/test/test/obj/Debug/netcoreapp2.1/test.csproj.CoreCompileInputs.cache
+/Users/kiran/Projects/test/test/obj/Debug/netcoreapp2.1/test.RazorAssemblyInfo.cache
+/Users/kiran/Projects/test/test/obj/Debug/netcoreapp2.1/test.RazorAssemblyInfo.cs
+/Users/kiran/Projects/test/test/obj/Debug/netcoreapp2.1/test.AssemblyInfoInputs.cache
+/Users/kiran/Projects/test/test/obj/Debug/netcoreapp2.1/test.AssemblyInfo.cs
+/Users/kiran/Projects/test/test/obj/Debug/netcoreapp2.1/test.RazorTargetAssemblyInfo.cache
+/Users/kiran/Projects/test/test/obj/Debug/netcoreapp2.1/test.dll
+/Users/kiran/Projects/test/test/obj/Debug/netcoreapp2.1/test.pdb
